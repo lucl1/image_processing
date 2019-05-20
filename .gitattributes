@@ -1,1 +1,2 @@
 doc/Video[[:space:]]Stablization[[:space:]]based[[:space:]]Gyroscope.7z filter=lfs diff=lfs merge=lfs -text
+doc/其他文档.7z filter=lfs diff=lfs merge=lfs -text
